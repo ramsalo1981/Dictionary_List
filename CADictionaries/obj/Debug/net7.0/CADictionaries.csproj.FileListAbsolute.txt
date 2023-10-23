@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\bin\Debug\net7.0\CADictionaries.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\bin\Debug\net7.0\CADictionaries.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\bin\Debug\net7.0\CADictionaries.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\bin\Debug\net7.0\CADictionaries.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\bin\Debug\net7.0\CADictionaries.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\refint\CADictionaries.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\CADictionaries.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CADictionaries\obj\Debug\net7.0\ref\CADictionaries.dll

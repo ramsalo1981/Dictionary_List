@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\bin\Debug\net7.0\CALists.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\bin\Debug\net7.0\CALists.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\bin\Debug\net7.0\CALists.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\bin\Debug\net7.0\CALists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\bin\Debug\net7.0\CALists.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\refint\CALists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\CALists.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CollectionsApp\CALists\obj\Debug\net7.0\ref\CALists.dll
